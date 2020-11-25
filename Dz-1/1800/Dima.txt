@@ -1,0 +1,5 @@
+{
+    name: Dima,
+    age: 30,
+    sex: male
+}
